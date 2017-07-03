@@ -12,9 +12,9 @@ return [
     | within will be resolved and automatically loaded to the Container.
     |
     */
-    'autoresolve_commands_directory' => [
+    'autoresolve_commands_directories' => [
 
-        'App/Console/Commands',
+        'app/Console/Commands',
     
     ],
 
